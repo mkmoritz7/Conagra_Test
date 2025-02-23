@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Diagram</title>
+</head>
+<body>
+
+    <h2>Click on the Diagram to View Images</h2>
+
+    <img src="Box_Car.jpeg" usemap="#diagram-map" width="600">
+
+    <map name="diagram-map">
+        <area target="_blank" alt="#2" title="#2" 
+              href="https://www.dropbox.com/scl/fo/3iq8apgnyzxr2k6uabc70/ANpsXkBqbuM2ZMP_6Tsf0c4?rlkey=srw4egy85oq8oepj9ghy2cs5g&amp;st=tbytsggb&amp;dl=0" 
+              coords="13,14,67,72" shape="rect">
+              
+        <area target="_blank" alt="#1" title="#1" 
+              href="https://www.dropbox.com/scl/fo/3pdjpz7o26wwqmv3c0stc/ADLAPtQ1_-rkixNRrkPIEhA?rlkey=uhsyvl0gxsspxcl7m23yl1zak&amp;st=i9fw0ebw&amp;dl=0" 
+              coords="12,102,68,161" shape="rect">
+              
+        <area target="_blank" alt="#3 & 4" title="#3 & 4" 
+              href="https://www.dropbox.com/scl/fo/e990c8agrireogvi97t5i/AP7AGc3ruuQq0Bt4zx_2Nt8?rlkey=1dx5ficnas3agfg2px7c2qpkm&amp;st=m2yg9udh&amp;dl=0" 
+              coords="69,16,125,159" shape="rect">
+    </map>
+
+</body>
+</html>
